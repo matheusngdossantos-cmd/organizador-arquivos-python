@@ -1,0 +1,19 @@
+# ==============================================================================
+# DEPENDÊNCIAS DO PROJETO - ORGANIZADOR DE ARQUIVOS
+# ==============================================================================
+#
+# Este projeto foi desenvolvido utilizando EXCLUSIVAMENTE módulos nativos
+# da Biblioteca Padrão (Standard Library) do Python 3:
+#
+#   1. os (manipulação de diretórios, caminhos e arquivos)
+#   2. tkinter (interface gráfica para diálogo de seleção de pastas)
+#
+# Portanto, NENHUMA dependência externa pesada precisa ser instalada via pip!
+#
+# Requisitos de Sistema:
+#   - Python 3.8 ou superior (com suporte a Tkinter habilitado)
+#
+# Observação para usuários Linux (Ubuntu/Debian):
+#   Caso o Tkinter não venha incluso no seu Python, instale com:
+#   $ sudo apt-get install python3-tk
+# ==============================================================================
